@@ -3,6 +3,8 @@
 
 ## Description
 
+> N.B This is a fork of the official gem to allow for a more lax `jwt` version constraint
+
 The CyberSource Ruby client provides convenient access to the [CyberSource REST API](https://developer.cybersource.com/api/reference/api-reference.html) from your Ruby application.
 
 [![Version         ][rubygems_badge]][rubygems]
