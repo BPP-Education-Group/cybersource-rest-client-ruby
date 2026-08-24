@@ -19,7 +19,7 @@ The CyberSource Ruby client provides convenient access to the [CyberSource REST 
 
 ## Installation
 
-### Bundler
+### Bundler .
 
 Be sure to always use HTTPS rubygems source in your gemfile and include the cybersource_rest_client.
 
